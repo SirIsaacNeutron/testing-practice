@@ -1,0 +1,27 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Practice problems for the Odin Project, along with TDD practice",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirIsaacNeutron/testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SirIsaacNeutron/testing-practice/issues"
+  },
+  "homepage": "https://github.com/SirIsaacNeutron/testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "7.20.2",
+    "jest": "29.5.0"
+  }
+}
